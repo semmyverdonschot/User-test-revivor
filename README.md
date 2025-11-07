@@ -15,8 +15,11 @@ https://revivorusertest.vercel.app/
 ## Setup
 
 ### Prerequisites
-*   Node.js (latest)
-*   npm
+
+If you dont have Node.js or npm here are the links:
+
+- [Node.js](https://nodejs.org/) (v20 or later recommended)
+- [npm](https://www.npmjs.com/get-npm)
 
 ### Installation
 1.  Clone the repository:
